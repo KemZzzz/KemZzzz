@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karim Ehab</h1>
 <h3 align="center">Love learning new things , code in python from Egypt</h3>
 
-- 🌱 I’m currently learning **Django,ReactJs,web Development**
+- 🌱 I’m currently learning machine learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
