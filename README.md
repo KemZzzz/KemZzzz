@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karim Ehab</h1>
-<h3 align="center">I’m currently learning machine learning , Data Science</h3>
+<h3 align="center"> NLP, Computer Vision , Data Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemswd&label=Profile%20views&color=0e75b6&style=flat" alt="kemswd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KemZzzz&label=Profile%20views&color=0e75b6&style=flat" alt="KemZzzz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kemswd" target="blank"><img src="https://img.shields.io/twitter/follow/kemswd?logo=twitter&style=for-the-badge" alt="kemswd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/KemZ99" target="blank"><img src="https://img.shields.io/twitter/follow/KemZ99?logo=twitter&style=for-the-badge" alt="KemZ99" /></a> </p>
 
 - 🔭 I’m currently working on **Convulsive seizure detection and notification system**
 
