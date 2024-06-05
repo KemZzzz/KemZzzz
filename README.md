@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently learning **Deeplearning , PyTorch , Flask , django , NLP ,CV**
 
-- 👯 I’m looking to collaborate on **Reallife projects**
+- 👯 I’m looking to collaborate on **Real-life projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kemswd](https://github.com/kemswd)
-
-- 💬 Ask me about **Python, HTML ,CSS , C++**
+- 👨‍💻 All of my projects are available at [https://github.com/kemswd](https://github.com/KemZzzz)
 
 - 📫 How to reach me **karmezt123@gmail.com**
 
