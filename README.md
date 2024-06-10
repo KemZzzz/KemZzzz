@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Deeplearning , PyTorch , Flask , django , NLP ,CV**
 
-- 👯 I’m looking to collaborate on **Real-life projects**
+- 👯 I’m looking to collaborate on **Real-World Problems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karim](https://github.com/KemZzzz)
 
